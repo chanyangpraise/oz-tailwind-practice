@@ -1,5 +1,7 @@
 # tailwindcss를 이용하여 OZ 페이지 디자인하기
 
+<img width="1438" alt="Screenshot 2024-11-22 at 1 21 13 PM" src="https://github.com/user-attachments/assets/ebe28a85-63d2-4df5-9701-a75d4205c0b2">
+
 ## 과제 정보
 
 - 주제 : tailwindcss를 이용하여 OZ 페이지 디자인하기
